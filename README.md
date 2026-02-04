@@ -1,4 +1,4 @@
-# Census Income Prediction Project
+# Simple Census Income Prediction Project
 
 ### Overview
 This project implements an end-to-end machine learning pipeline using pure Python and Scikit-Learn. It builds a binary classification model to predict whether an individual's income exceeds $50K/year based on census data, focusing on handling real-world data challenges like missing values and class imbalance.
